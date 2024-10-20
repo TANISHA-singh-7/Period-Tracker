@@ -13,23 +13,20 @@ This is a minimal web app designed to help you track your menstrual cycle and be
 **Here's a sneak peek at what the app currently offers:**
 
 * **Home Page:** 
-    * **[Countdown to Your Next Period]**  (Interactive: Add a GIF animation of a clock or calendar)
-    * **[Days Left in Your Cycle]**  (Interactive: Add a visual progress bar)
-    * **[Period Day Counter]** (Interactive: Add a visually appealing counter that changes with each day)
-    * **[Period Start Button]** (Interactive: Add a button that has a hover animation, like a subtle color change or a slight scale-up)
-
+    * **[Countdown to Your Next Period]**  
+    * **[Days Left in Your Cycle]**
+    * **[Period Day Counter]** 
+    * **[Period Start Button]** 
 * **Calendar:**
-    * **[Visual Calendar View]** (Interactive: Consider adding a hover effect to calendar days that highlights them)
-
+    * **[Visual Calendar View]** 
 * **Log:**
-    * **[Cycle Entries]** (Interactive: Make log entries have a hover effect or expand slightly on click)
-    * **[Average Cycle Length]** (Interactive: Add a chart or graph to visually show your average cycle length)
+    * **[Cycle Entries]** 
+    * **[Average Cycle Length]** 
 
 * **Settings:**
-    * **[Import and Export Data]**  (Interactive: Add a "Download" button that has a hover effect)
-    * **[Customize Calendar]** (Interactive: Add icons to the settings options)
-    * **[Manage Cycle Length and Period Length]** (Interactive: Use input fields that have a focus animation)
-
+    * **[Import and Export Data]** 
+    * **[Customize Calendar]**
+    * **[Manage Cycle Length and Period Length]**
 ## Disclaimer:
 
 This app is intended for informational purposes only and is not a substitute for professional medical advice.  Always consult with your doctor or other qualified healthcare provider for any questions or concerns you may have. 
